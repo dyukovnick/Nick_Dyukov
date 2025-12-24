@@ -97,4 +97,29 @@ en-footer {
   color: #bdc7f0;
   text-align: center;
   margin: auto;
+
+}
+
+/* Обновление кода, для того чтобы на телефонах было лучше, это единственное что сделал не я сам во всем проекте.
+   Code update to improve mobile display is the only part of the entire project that I did not do myself. */
+@media (max-width: 767px) {
+  .en-simple-info, .ru-simple-info,
+  .en-about-me, .ru-about-me,
+  .en-contacts, .ru-contacts {
+    width: 95% !important;
+    margin: 10px auto !important;
+    padding: 10px !important;
+  }
+
+  h1 {
+    font-size: 1.5em !important;
+  }
+
+  h2, h3 {
+    font-size: 1.2em !important;
+  }
+
+  p {
+    font-size: 1em !important;
+  }
 }
