@@ -63,7 +63,8 @@ footer {
 
 @media (max-width: 767px) {
   .user-choose, .simple-info, .about-me, .contacts {
-    width: 8% !important;
+    width: 88% !important;
     padding: 13px !important;
   }
+
 }
