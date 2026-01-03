@@ -21,7 +21,7 @@ body.ru-page {
 .language main {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #657fe9;
-  margin-top: 196px;
+  margin-top: 168px;
   width: 484px;
   height: auto;
   text-align: center;
@@ -107,8 +107,9 @@ p {
   .ru-page section,
   .ru-page footer
    {
-    width: 84% !important;
+    width: 80% !important;
     padding: 16px !important;
   }
 }
+
 
