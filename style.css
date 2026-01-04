@@ -2,7 +2,7 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 32px;
+  gap: 28px;
   margin: 0;
   padding: 0;
 }
@@ -21,13 +21,13 @@ body.ru-page {
 .language main {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #657fe9;
-  margin-top: 188px;
+  margin-top: 176px;
   width: 484px;
   height: auto;
   text-align: center;
   padding: 12px;
   border-radius: 92px;
-  box-shadow: 0px 0px 36px rgba(241, 241, 243, 0.7);
+  box-shadow: 0px 0px 32px rgba(241, 241, 243, 0.7);
 }
 
 .en-page header,
@@ -40,7 +40,7 @@ body.ru-page {
   padding: 12px;
   margin-top: 16px;
   border-radius: 92px;
-  box-shadow: 0px 0px 36px rgba(241, 241, 243, 0.7);
+  box-shadow: 0px 0px 32px rgba(241, 241, 243, 0.7);
 }
 
 .en-page main,
@@ -52,7 +52,7 @@ body.ru-page {
   text-align: center;
   padding: 12px;
   border-radius: 92px;
-  box-shadow: 0px 0px 36px rgba(241, 241, 243, 0.7);
+  box-shadow: 0px 0px 32px rgba(241, 241, 243, 0.7);
 }
 
 .en-page section,
@@ -64,7 +64,7 @@ body.ru-page {
   text-align: center;
   padding: 12px;
   border-radius: 92px;
-  box-shadow: 0px 0px 36px rgba(241, 241, 243, 0.7);
+  box-shadow: 0px 0px 32px rgba(241, 241, 243, 0.7);
 }
 
 .en-page footer,
